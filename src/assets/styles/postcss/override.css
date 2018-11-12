@@ -1,0 +1,13 @@
+.iconfont {
+    font-size: var(--font-size);
+    display: inline-block;
+    vertical-align: middle;
+    transform: scale(1.25);
+
+    &.scale-1 {
+        transform: scale(1);
+    }
+}
+/* 覆盖ui 组件样式*/
+
+/* 其他 */

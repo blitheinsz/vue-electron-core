@@ -1,0 +1,7 @@
+@media (max-width: 1300px) {
+    .header .container {
+        width: auto;
+        margin-left:  calc(var(--space) * 2);
+        margin-right:  calc(var(--space) * 2);
+    }
+}

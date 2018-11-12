@@ -1,0 +1,28 @@
+.home {
+   text-align: center;
+   & .box {
+       width: 500px;
+       margin: 0 auto;
+       margin-top: 40px;
+       & .el-progress__text {
+           color: var(--white);
+       }
+   }
+   & .el-form {
+       width: 100%;
+       & .el-form-item {
+           & label {
+               color: var(--white);
+           }
+       }
+   }
+   & .loading {
+       position: fixed;
+       top: 0;
+       left: 0;
+       right: 0;
+       bottom: 0;
+       z-index: 100;
+       background-color: rgba(0,0,0,0.7);
+   }
+}

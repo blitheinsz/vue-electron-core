@@ -1,2 +1,26 @@
-# vue-electron-core
-基于vue+typescript+electron3.0的框架，调用ffmpeg进行视频转码
+# vue-electron-core-ts
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```

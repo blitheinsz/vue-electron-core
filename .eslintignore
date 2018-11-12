@@ -1,0 +1,6 @@
+dist/*
+dist_electron/*
+node_modules/*
+src/assets/styles/fonts/*
+src/vendors/*
+output-dev.js

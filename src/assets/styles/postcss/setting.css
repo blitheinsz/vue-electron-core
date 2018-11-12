@@ -1,0 +1,27 @@
+:root {
+      /*px变量*/
+    --font-size: 12px;
+    --font-title: 14px;
+    --small-font: 12px;
+    --middle-font: 14px;
+    --large-font: 16px;
+    --h4: 16px;
+    --h3: 18px;
+    --h2: 24px;
+    --h1: 30px;
+    --space: 10px;
+
+
+      /* 颜色值*/
+    --font-color: #333;
+    --font-sub-color: #777;
+    --font-tip-color: #999;
+    --link-color: #1e54c4;
+    --danger-color: #d82525;
+    --border-color: #dedede;
+    --main-color: #0084CF; /* 蓝 */
+    --black: #000;
+    --white: #fff;
+    --golden: #ddc265;
+    --bg-footer: #2A2E38;
+}
